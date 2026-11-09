@@ -25,7 +25,7 @@ Designed and implemented an autonomous AI agent that participates in technical d
 
 ## 2. VoC Whisperer — AI-Powered Customer Intelligence
 
-**July 2026 | Three-person hackathon team**
+**July 2026 | Led three-person hackathon team, functioned as main contributor**
 
 Contributed to a working proof of concept exploring how retrieval-augmented generation can transform fragmented customer feedback into evidence-grounded insights.
 
